@@ -269,7 +269,3 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
-
-
-
-](https://github.com/Shyamsujin/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/edit/main/README.md)
